@@ -1,7 +1,6 @@
 ### <b>Hello C◕ders </b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="60%" height="40%" src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
+<img width="70%"  src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
 
 This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion. You can find me on [![Twitter][1.2]][1].
 
@@ -28,21 +27,23 @@ This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack de
 
  ---
  
+### Boy Scout Rule
+
  <p>
   <img width="250" align='left' src="https://user-images.githubusercontent.com/78081310/128130324-6f1fe1a1-1c2a-4130-ab52-4faa547146e9.png?raw=true">
 </p>
  
-### Boy Scout Rule
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
  ---
 
+### My Digital Life 👨‍💻
+
 <p>
  <img width="300" align='right' src="https://user-images.githubusercontent.com/78081310/128000519-59d0a56a-4530-435c-81d7-b2c88857661c.gif?raw=true"></a>
 </p>
 
-### My Digital Life 👨‍💻
 
 I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️|
 
