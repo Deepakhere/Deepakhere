@@ -1,45 +1,20 @@
- <h2>Hey C◕ders <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm <a href="https://codingroar.blogspot.com/p/about-us.html">Deepak</a></h2>
+ <h2>Hello Coders<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="15px">, <a href="https://codingroar.blogspot.com/p/about-us.html">Deepakhere</a></h2>
 
 <img width="100%"  src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
 
-This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion. You can find me on [![Twitter][1.2]][1].
+This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion.
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/@Deepak128740407
-[2]: https://www.instagram.com/deep_gupta14/
-
-<b>Talking about My Personal Stuffs:</b>
-
-- 🔭 I’m currently working on collage project.
-- 🌱 I’m currently learning IoT.
+### Talking about My Personal Stuffs:
+---
+- 🔭 I’m currently working on college project (Food ordering app).
+- 👨🏻‍💻 I’m currently learning Java.
 - 💬 Ask me about Coding and tech related query.
-- 📫 How to reach me: <a href="https://www.instagram.com/deep_gupta14/">The◕Deep</a>
-- ⚡ Fun fact: I'm not anti-social ⃠
+- 📫 How to reach me: <a href="https://www.instagram.com/thedeep_14/">@thedeep</a>
+- ⚡ Fun fact: I'm not anti-social 🚫 
  I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
 
-
-![](https://img.shields.io/badge/👨‍💻-◕-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
- ---
- 
-### Boy Scout Rule
-
- <p>
-  <img width="250" align='left' src="https://user-images.githubusercontent.com/78081310/128130324-6f1fe1a1-1c2a-4130-ab52-4faa547146e9.png?raw=true">
-</p>
- 
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
-
-### My Digital Life 👨‍💻
-
+### My Digital Life ![](https://img.shields.io/badge/👨‍💻-◕-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+---
 <p>
  <img width="300" align='right' src="https://user-images.githubusercontent.com/78081310/128000519-59d0a56a-4530-435c-81d7-b2c88857661c.gif?raw=true"></a>
 </p>
