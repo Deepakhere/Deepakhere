@@ -1,17 +1,17 @@
  <h2>Hello Coders<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="15px">, <a href="https://codingroar.blogspot.com/p/about-us.html">Deepakhere</a></h2>
 
-<img width="100%"  src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true">
+<!-- <img width="100%"  src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true"> -->
 
 This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack developer by passion.
 
 ### Talking about My Personal Stuffs:
 ---
-- 🔭 I’m currently working on college project (Food ordering app).
-- 👨🏻‍💻 I’m currently learning Java.
+- 🔭 I’m currently working on web development as a intern.
+- 👨🏻‍💻 and learning Java || DSA.
 - 💬 Ask me about Coding and tech related query.
 - 📫 How to reach me: <a href="https://www.instagram.com/thedeep_14/">@thedeep</a>
-- ⚡ Fun fact: I'm not anti-social 🚫 
- I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
+- ⚡ Fun fact: I'm not anti-social🚫
+     but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
 
 ### My Digital Life ![](https://img.shields.io/badge/👨‍💻-◕-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ---
@@ -20,7 +20,7 @@ This is Deepak Kumar Gupta, Computer engineer by qualification and full-stack de
 </p>
 
 
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️|
+I am interested in and talking about JavaScript, ReactJS, CSS, and upcoming Technologies. ♥️|
 
 I write regular blog posts, most of which you will find on my personal website [codingroar.com](https://codingroar.blogspot.com)
 
