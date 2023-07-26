@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is DeepakHere</h1>
 <h3 align="center">Computer engineer by qualification and Passionate about full-stack Developer.</h3>
-<img src="https://media.licdn.com/dms/image/D4D16AQG4Zpj53ZHbEg/profile-displaybackgroundimage-shrink_350_1400/0/1685619062849?e=1695254400&v=beta&t=bvoNRIyHjha0ZT20FSEo255Ny_1M1D5oJOYw3eVogXQ">
+<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQG4Zpj53ZHbEg/profile-displaybackgroundimage-shrink_350_1400/0/1685619062849?e=1695254400&v=beta&t=bvoNRIyHjha0ZT20FSEo255Ny_1M1D5oJOYw3eVogXQ">
 
 <!-- <img width="100%"  src="https://user-images.githubusercontent.com/78081310/128008376-a11d98d7-19b9-4126-8d1e-827440a73e4d.png?raw=true"> 
 
@@ -19,8 +19,9 @@
 <p>
  <img width="250" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
 </p>
----
 
+
+---
 - 🔭 I’m currently working on web development as a intern.
 - 👨🏻‍💻 and learning Java || DSA.
 - 💬 Ask me about Coding and tech related query.
