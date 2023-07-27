@@ -16,13 +16,13 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💫 Talking about My Personal Stuffs:
+---
 <p>
  <img width="250" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
 </p>
 
 
 
----
 - 🔭 I’m currently working on web development as a intern.
 - 👨🏻‍💻 and learning Java || DSA.
 - 💬 Ask me about Coding and tech related query.
