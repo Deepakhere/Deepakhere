@@ -36,7 +36,7 @@
 ## My Digital Life!👨‍💻
 ---
 <p>
- <img width="280" align='right' src="https://itsvg.in/hero.svg"></a>
+ <img width="290" align='right' src="https://itsvg.in/hero.svg"></a>
 </p>
 <!-- https://user-images.githubusercontent.com/78081310/128000519-59d0a56a-4530-435c-81d7-b2c88857661c.gif?raw=true -->
 I am interested in and talking about JavaScript, ReactJS, CSS, and upcoming Technologies. ♥️|
