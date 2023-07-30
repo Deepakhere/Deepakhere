@@ -24,14 +24,15 @@
 
 
   ---
-  
   - 🔭 I’m currently working on web development as a intern.
+  
   - 👨🏻‍💻 and learning Java || DSA.
+    
   - 💬 Ask me about Coding and tech related query.
+    
   - 📫 How to reach me: <a href="https://www.instagram.com/thedeep_14/">@thedeep</a>
+
   - ⚡ Fact: I'm not anti-social but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
-
-
 
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedeep14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepgupta14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/codingclasses) 
 
