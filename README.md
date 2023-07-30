@@ -17,9 +17,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💫 Talking about My Personal Stuffs:
 <p>
- <img width="300" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
+ <img width="290" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
 </p>
-
 
 
 
@@ -34,7 +33,11 @@
 
   - ⚡ Fact: I'm not anti-social but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
 
+
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedeep14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepgupta14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/codingclasses) 
+
+
+
 
 
 
