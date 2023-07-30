@@ -24,11 +24,11 @@
 
 <ul align='right'>
   ---
-- 🔭 I’m currently working on web development as a intern.
-- 👨🏻‍💻 and learning Java || DSA.
-- 💬 Ask me about Coding and tech related query.
-- 📫 How to reach me: <a href="https://www.instagram.com/thedeep_14/">@thedeep</a>
-- ⚡ Fact: I'm not anti-social but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
+  <li>- 🔭 I’m currently working on web development as a intern.</li>
+  <li>- 👨🏻‍💻 and learning Java || DSA.</li>
+  <li>- 💬 Ask me about Coding and tech related query.</li>
+  <li>- 📫 How to reach me: <a href="https://www.instagram.com/thedeep_14/">@thedeep</a></li>
+   <li>- ⚡ Fact: I'm not anti-social but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.</li>
 </ul>
 
 
