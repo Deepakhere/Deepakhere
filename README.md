@@ -55,7 +55,7 @@ I make video about things I am familiar with, things that trip up folks that I m
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
- <a href="https://deepakhere.github.io/"><img width="400" height="250" src="https://user-images.githubusercontent.com/78081310/128003277-66d9d1a4-d7dd-433c-9ede-c87b9ebe57ab.png?raw=true"></a>
+ <a href="https://deepakhere.github.io/Ecom"><img width="400" height="250" src="https://user-images.githubusercontent.com/78081310/128003277-66d9d1a4-d7dd-433c-9ede-c87b9ebe57ab.png?raw=true"></a>
  <a href="https://youtu.be/fJdiJqzczN8/"><img width="400" height="250" src="https://user-images.githubusercontent.com/78081310/127996939-dbedb553-b77e-41ca-afbe-a070d336a3e1.png?raw=true"></a>
  
 </details>
