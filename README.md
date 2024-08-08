@@ -17,7 +17,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💫 Talking about My Personal Stuffs:
 <p>
- <img width="290" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
+ <img width="270" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
 </p>
 
 
@@ -35,19 +35,16 @@
 
 
    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedeep14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepgupta14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/codingclasses) 
-
-
-
-
-
+</br>
 
 
 ## My Digital Life!👨‍💻
----
 <p>
  <img width="290" align='right' src="https://itsvg.in/hero.svg"></a>
 </p>
-<!-- https://user-images.githubusercontent.com/78081310/128000519-59d0a56a-4530-435c-81d7-b2c88857661c.gif?raw=true -->
+
+---
+
 I am interested in and talking about JavaScript, ReactJS, CSS, and upcoming Technologies. ♥️|
 
 I write regular blog posts, most of which you will find on my personal website [codingroar.com](https://codingroar.blogspot.com)
