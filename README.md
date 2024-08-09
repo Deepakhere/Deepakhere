@@ -18,10 +18,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💫 Talking about My Personal Stuffs:
 <p>
- <img width="260" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
+ <img width="270" align='left' src="https://gprm.itsvg.in/hpill.svg"></a>
 </p>
-
-
 
   ---
   - 🔭 I’m currently working as a Software Engineer.
@@ -35,7 +33,7 @@
   - ⚡ Fact: I'm not anti-social but, I'm just not U̶s̶e̶r̶f̶r̶i̶e̶n̶d̶l̶y̶.
 
 
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedeep14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepgupta14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/codingclasses) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedeep14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepgupta14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/codingclasses) 
 
 
 
@@ -47,22 +45,17 @@
 ---
 
 I am interested in and talking about JavaScript, ReactJS, CSS, and upcoming Technologies. ♥️|
-
 I write regular blog posts, most of which you will find on my personal website [codingroar.com](https://codingroar.blogspot.com)
 
 I make video about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-
-
 <details>
  <summary><strong>other favorite posts</strong></summary>
- <a href="https://deepakhere.github.io/Ecom"><img width="400" height="250" src="https://raw.githubusercontent.com/Deepakhere/Img/main/Screenshot%202024-08-08%20230833.png?token=GHSAT0AAAAAACVV3HOJFPLITRVPCOJ6XWCGZVVAP3Q"></a>
- <a href="https://youtu.be/fJdiJqzczN8/"><img width="400" height="250" src="https://user-images.githubusercontent.com/78081310/127996939-dbedb553-b77e-41ca-afbe-a070d336a3e1.png?raw=true"></a>
- 
+  <P>
+   <a href="https://deepakhere.github.io/Ecom"><img width="280" height="150" src="https://github.com/Deepakhere/Img/blob/main/Screenshot%202024-08-08%20230833.png?raw=true"></a>
+   <a href="https://youtu.be/fJdiJqzczN8/"><img width="280" height="150" src="https://user-images.githubusercontent.com/78081310/127996939-dbedb553-b77e-41ca-afbe-a070d336a3e1.png?raw=true"></a>
+ </P>
 </details>
-
-
-
 💌 Sign up for Coding [Tutorials](https://youtube.com/c/CodingClasses/)
 
 ---
@@ -75,6 +68,6 @@ On a mission to fuel my dream of tech and talent.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Deepakhere&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepakhere&theme=merko&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deepakhere&theme=merko&hide_border=false)
 
 
