@@ -50,11 +50,12 @@ I write regular blog posts, most of which you will find on my personal website [
 I make video about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
 <details>
- <summary><strong>other favorite posts</strong></summary>
-  <P>
+ <summary>
+   <strong>other favorite posts</strong></summary>
+<P>
    <a href="https://deepakhere.github.io/Ecom"><img width="280" height="150" src="https://github.com/Deepakhere/Img/blob/main/Screenshot%202024-08-08%20230833.png?raw=true"></a>
    <a href="https://youtu.be/fJdiJqzczN8/"><img width="280" height="150" src="https://user-images.githubusercontent.com/78081310/127996939-dbedb553-b77e-41ca-afbe-a070d336a3e1.png?raw=true"></a>
- </P>
+</P>
 </details>
 💌 Sign up for Coding [Tutorials](https://youtube.com/c/CodingClasses/)
 
