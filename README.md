@@ -45,12 +45,7 @@ I believe great software is not just built, it's refined through continuous impr
 
 ### 🌐 **My Digital Life**
 
-<table>
-<tr>
-<td width="260" valign="top">
-  <img width="260" src="terminal-hero.svg">
-</td>
-<td valign="top">
+<img align="left" width="260" src="terminal-hero.svg">
 
 I'm into JavaScript, React and the MERN stack, with an eye on whatever's coming next. I write regular blog posts at [codingroar.com](https://codingroar.blogspot.com), and make videos about things I'm familiar with, things that trip up people I mentor, and things I'm learning myself.
 
@@ -81,9 +76,7 @@ I'm into JavaScript, React and the MERN stack, with an eye on whatever's coming 
 
 > On a mission to fuel my dream of tech and talent.
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
@@ -157,5 +150,6 @@ Jharkhand University of Technology (JUT), Ranchi · Aug 2018 – Oct 2021
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepakhere&style=flat-square&color=brightgreen" alt="profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDeepakhere%2FDeepakhere&label=Profile%20Views&countColor=%2337d67a&style=flat-square" alt="profile views" />
 </p>
+
